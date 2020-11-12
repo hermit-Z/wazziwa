@@ -1,1 +1,2 @@
 this is man for electrocs sensors and shiemat
+dht22
